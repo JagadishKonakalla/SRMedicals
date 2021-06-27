@@ -1,0 +1,116 @@
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  font-family: "Roboto Slab", serif;
+}
+#title {
+  background-color: #49a2fa;
+  text-align: center;
+}
+.Big-heading {
+  font-family: "Montserrat";
+  color: #fff;
+  padding: 20%;
+}
+.capsule {
+  color: pink;
+}
+.Medicine-image {
+  padding-left: 0;
+  padding-left: 0;
+  width: 80%;
+}
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  color: red;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.navbar-toggler-icon {
+  color: red;
+}
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature-text {
+  padding-top: 10%;
+}
+.icon {
+  color: #ef8172;
+}
+#Testimonials {
+  padding: 10%;
+  text-align: center;
+  color: #fff;
+  background-color: #49a2fa;
+  font-family: "Montserrat", sans-serif;
+}
+#company {
+  text-align: center;
+  color: #fff;
+  background-color: #49a2fa;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 3%;
+}
+.company-text {
+  padding-bottom: 3%;
+}
+.Mankind {
+  color: blue;
+}
+.SunPharma {
+  color: orange;
+}
+.Glenmark {
+  color: red;
+}
+.Reddys {
+  color: blue;
+}
+#Pricing {
+  padding: 5%;
+}
+.Pricing-heading {
+  font-family: "Montserrat";
+  text-align: center;
+  padding-bottom: 3%;
+}
+#cta {
+  padding: 5%;
+  text-align: center;
+  background-color: #49a2fa;
+  color: #fff;
+}
+.contact {
+  font-family: "Montserrat", sans-serif;
+}
+#footer {
+  text-align: center;
+}
+@media (max-width: 860px) {
+  .Big-heading {
+    padding: 10%;
+    padding-bottom: 20%;
+  }
+  .Medicine-image {
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+  }
+
+  .company-text {
+    padding-bottom: 10%;
+    padding-top: 5%;
+  }
+  .Pricing-heading {
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+  #footer {
+    padding: 2%;
+    text-align: center;
+  }
+}
